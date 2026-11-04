@@ -5,6 +5,13 @@
 <div align="left">
 
 # **crewAI Tools**
+
+## About
+- **What it is:** An untouched copy of the CrewAI tools library, add-on tools for CrewAI agents.
+- **Business:** learning
+- **Status:** inactive since 2024-03
+- **Source:** agent research 2026-11-04
+
 This document provides a comprehensive guide for setting up sophisticated tools for [crewAI](https://github.com/joaomdmoura/crewai) agents, facilitating the creation of bespoke tooling to empower your AI solutions.
 
 In the realm of CrewAI agents, tools are pivotal for enhancing functionality. This guide outlines the steps to equip your agents with an arsenal of ready-to-use tools and the methodology to craft your own.
